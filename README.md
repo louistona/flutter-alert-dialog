@@ -34,3 +34,8 @@ Then you will be able to use the app.
 
 ## AUTHORS
 Louis Marie Toussaint TONA
+
+## REFERENCES
+- **Slides Presentation Link**: https://docs.google.com/presentation/d/13ux1q93jpZ1Mla2spTfANVz0-rkNhr3qIvfKyrNbnXA/edit?usp=sharing
+- **Code and Widget Information**: https://api.flutter.dev/flutter/material/AlertDialog-class.html
+
